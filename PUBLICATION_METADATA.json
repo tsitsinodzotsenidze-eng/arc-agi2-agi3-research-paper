@@ -21,5 +21,23 @@
   "arc3_version_doi": "10.5281/zenodo.23869166",
   "lp85_commit": "aab389457620273417a8345b161f1c9028ac55d1",
   "lp85_url": "https://github.com/tsitsinodzotsenidze-eng/arc-agi3-agent-strategy/tree/aab389457620273417a8345b161f1c9028ac55d1/publication/lp85-supplement-2026-11-05",
-  "kaggle_paper_track_submitted": false
+  "kaggle_paper_track_submitted": false,
+  "paper_version_doi": "10.5281/zenodo.23989843",
+  "paper_concept_doi": "10.5281/zenodo.23989842",
+  "paper_zenodo_record_url": "https://zenodo.org/records/23989843",
+  "paper_zenodo_publication_date": "2026-11-06",
+  "paper_zenodo_status": "published",
+  "paper_zenodo_resource_type": "Preprint",
+  "paper_zenodo_source_commit": "177f555f0cb5284a0521c74b047a4f3435a5e0b4",
+  "paper_zenodo_formatting_note": "The Zenodo Word/PDF copies replace the header label WORKING DRAFT v2 with MANUSCRIPT v2.1a. Scientific text, results and interpretation are unchanged.",
+  "paper_zenodo_files": [
+    {
+      "name": "ARC_Paper_v21a_Zenodo.pdf",
+      "md5": "3c28b2406c7fe7ac99faff37eb8a0187"
+    },
+    {
+      "name": "ARC_Paper_v21a_Deposit.zip",
+      "md5": "f3bd85358104a6ade269a88d524eca06"
+    }
+  ]
 }

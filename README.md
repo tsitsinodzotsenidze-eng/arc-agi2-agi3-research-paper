@@ -5,16 +5,24 @@
 **Author:** Tsitsino Dzotsenidze · [ORCID 0000-0002-9432-1803](https://orcid.org/0000-0002-9432-1803)  
 **Version:** v2.1a · public repository copy, 6 November 2026
 
+## Paper DOI
+
+**Combined manuscript, v2.1a:** [10.5281/zenodo.23989843](https://doi.org/10.5281/zenodo.23989843)  
+**Published:** 6 November 2026 · Preprint · [Zenodo record](https://zenodo.org/records/23989843)
+
+This DOI identifies the combined research paper. The ARC-AGI-2 and ARC-AGI-3 technical archives retain their own separate DOIs below.
+
 We examine the evidence connecting an adaptation procedure to improved problem solving. The paper combines a repeated update-policy comparison in an attributed NVARC port for ARC-AGI-2 with recovery-execution records and a selected trajectory diagnostic from ARC-AGI-3. The two studies have different designs and are not pooled into a single causal experiment.
 
 ## Read the paper
 
+- [Published PDF on Zenodo](https://zenodo.org/records/23989843/files/ARC_Paper_v21a_Zenodo.pdf?download=1)
 - [Manuscript in Markdown](ARC_Paper_v21a.md)
 - [Manuscript in Word](ARC_Paper_v21a.docx)
 - [References and supporting sources](REFERENCES.md)
 - [Copyright notice](COPYRIGHT.md)
 
-This is the reviewed v2.1a manuscript with only the LP85 publication-status sentence and reference [5] updated to the now-public source. Scientific results and interpretation are unchanged. Provenance and source hashes are in `PUBLICATION_METADATA.json`.
+This is the reviewed v2.1a manuscript with only the LP85 publication-status sentence and reference [5] updated to the now-public source. Scientific results and interpretation are unchanged. The published Zenodo Word/PDF copies also correct the header label from `WORKING DRAFT v2` to `MANUSCRIPT v2.1a`; this is a formatting correction only. Provenance and source hashes are in `PUBLICATION_METADATA.json`.
 
 ## Two independent technical archives
 

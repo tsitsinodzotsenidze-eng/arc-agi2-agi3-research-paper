@@ -1,5 +1,13 @@
 # References and supporting sources
 
+## Cite the combined paper
+
+Dzotsenidze, T. (2026). *Two Worlds, One Challenge: How AI Solves Unfamiliar Problems — Evidence from ARC-AGI-2 and ARC-AGI-3* (Version v2.1a) [Preprint]. Zenodo. [https://doi.org/10.5281/zenodo.23989843](https://doi.org/10.5281/zenodo.23989843).
+
+The paper DOI is distinct from the two technical-archive DOIs in references [3] and [4]. The numbered references below retain the numbering used in the manuscript.
+
+## Sources cited in the manuscript
+
 [1] ARC Prize (2026). [ARC-AGI-2 competition](https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2); [ARC-AGI-3 benchmark](https://arcprize.org/arc-agi/3).
 
 [2] Sorokin, I., and Puget, J.-F. (2025). [NVARC solution to ARC-AGI-2 2025](https://github.com/1ytic/NVARC).
