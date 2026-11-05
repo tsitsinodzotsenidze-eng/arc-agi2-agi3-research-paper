@@ -1,0 +1,25 @@
+{
+  "title": "Two Worlds, One Challenge: How AI Solves Unfamiliar Problems — Evidence from ARC-AGI-2 and ARC-AGI-3",
+  "author": "Tsitsino Dzotsenidze",
+  "orcid": "0000-0002-9432-1803",
+  "manuscript_version": "v2.1a",
+  "public_repository_date": "2026-11-06",
+  "repository": "tsitsinodzotsenidze-eng/arc-agi2-agi3-research-paper",
+  "copyright": "Copyright 2026 Tsitsino Dzotsenidze. All rights reserved. No additional license granted.",
+  "source_package": "ARC_Paper_v21a_and_LP85_MIT0.zip",
+  "source_sha256": {
+    "ARC_Paper_v21a.md": "46aeea05adbc69f4ddb7e7741433c0a6b74e6b83bde44cbb3a022a200895714a",
+    "ARC_Paper_v21a.docx": "cad985ec63ed89def26c0aa73ca0b2725cb8ab633492e9765fe106dce5cc7a2e"
+  },
+  "publication_edits": [
+    "Replace the LP85-publication-pending sentence with its published status",
+    "Resolve reference [5] to the immutable LP85 commit URL"
+  ],
+  "scientific_results_changed": false,
+  "new_experiments_run": false,
+  "arc2_version_doi": "10.5281/zenodo.23895859",
+  "arc3_version_doi": "10.5281/zenodo.23869166",
+  "lp85_commit": "aab389457620273417a8345b161f1c9028ac55d1",
+  "lp85_url": "https://github.com/tsitsinodzotsenidze-eng/arc-agi3-agent-strategy/tree/aab389457620273417a8345b161f1c9028ac55d1/publication/lp85-supplement-2026-11-05",
+  "kaggle_paper_track_submitted": false
+}
