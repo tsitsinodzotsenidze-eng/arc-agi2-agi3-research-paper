@@ -21,7 +21,7 @@
   "arc3_version_doi": "10.5281/zenodo.23869166",
   "lp85_commit": "aab389457620273417a8345b161f1c9028ac55d1",
   "lp85_url": "https://github.com/tsitsinodzotsenidze-eng/arc-agi3-agent-strategy/tree/aab389457620273417a8345b161f1c9028ac55d1/publication/lp85-supplement-2026-11-05",
-  "kaggle_paper_track_submitted": false,
+  "kaggle_paper_track_submitted": true,
   "paper_version_doi": "10.5281/zenodo.23989843",
   "paper_concept_doi": "10.5281/zenodo.23989842",
   "paper_zenodo_record_url": "https://zenodo.org/records/23989843",
@@ -39,5 +39,10 @@
       "name": "ARC_Paper_v21a_Deposit.zip",
       "md5": "f3bd85358104a6ade269a88d524eca06"
     }
-  ]
+  ],
+  "kaggle_paper_track_submitted_at_manuscript_publication": false,
+  "kaggle_paper_track_status_updated_on": "2026-11-07",
+  "kaggle_writeup_url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track/writeups/new-writeup-1793987217832",
+  "kaggle_status_record": "KAGGLE_SUBMISSION_STATUS_2026-11-07.json",
+  "kaggle_status_note": "Administrative update after the manuscript's publication; v2.1a source files and all existing DOI records remain unchanged."
 }

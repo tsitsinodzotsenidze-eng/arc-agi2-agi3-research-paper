@@ -1,0 +1,40 @@
+{
+  "record_type": "Kaggle Paper Track current publication status",
+  "author": "Tsitsino Dzotsenidze",
+  "orcid": "0000-0002-9432-1803",
+  "status": "Submitted",
+  "submitted_on_Georgia": "2026-11-07",
+  "writeup_title": "Keeping the Trainer, Removing the Update: An ARC-AGI-2 Sensitivity Study",
+  "writeup_url": "https://www.kaggle.com/competitions/arc-prize-2026-paper-track/writeups/new-writeup-1793987217832",
+  "confirmation": "Kaggle Submitted! confirmation and final revised Figure 1 were visible together in the author-provided screenshot reviewed on 7 November 2026.",
+  "public_notebook_url": "https://www.kaggle.com/code/tsitsinodzotsenidze/arc2-2026-nvarc-b1-hash42?scriptVersionId=363939870",
+  "scriptVersionId": 363939870,
+  "displayed_notebook_version": 1,
+  "competition_submission_id": null,
+  "competition_submission_id_note": "Separate numeric ID was not exposed by the inspected competition list/details interface; no value is invented.",
+  "official_rounded_public_score": 30.97,
+  "figure_update": {
+    "author_approved": true,
+    "completed": true,
+    "format": "16:9",
+    "repeat_label": "Source-identical repeat evaluations",
+    "after_deadline_status_retained": true,
+    "scientific_values_changed": false
+  },
+  "word_counts": {
+    "last_verified_Kaggle_editor_body": 1292,
+    "conservative_selected_total_including_media_and_links": 1441,
+    "limit": 1500
+  },
+  "independent_version_DOIs": {
+    "ARC2": "10.5281/zenodo.23895859",
+    "ARC3": "10.5281/zenodo.23869166",
+    "combined_manuscript": "10.5281/zenodo.23989843"
+  },
+  "manuscript_version": "v2.1a",
+  "manuscript_files_changed": false,
+  "technical_archive_files_changed": false,
+  "DOIs_changed": false,
+  "new_experiments_run": false,
+  "rights_note": "This status update grants no additional licence; the separate manuscript, technical archives, scoped author-code grants and Kaggle writeup retain their applicable terms."
+}

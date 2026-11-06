@@ -12,6 +12,14 @@
 
 This DOI identifies the combined research paper. The ARC-AGI-2 and ARC-AGI-3 technical archives retain their own separate DOIs below.
 
+## Kaggle Paper Track — Submitted
+
+The separate competition writeup, [Keeping the Trainer, Removing the Update: An ARC-AGI-2 Sensitivity Study](https://www.kaggle.com/competitions/arc-prize-2026-paper-track/writeups/new-writeup-1793987217832), was submitted on **7 November 2026** (Georgia local date). The author-approved Figure 1 update is also complete; the final Kaggle confirmation displayed **Submitted!** together with the revised gallery figure.
+
+The attached public competition anchor is [ARC2 B1, saved notebook version 363939870](https://www.kaggle.com/code/tsitsinodzotsenidze/arc2-2026-nvarc-b1-hash42?scriptVersionId=363939870), with official rounded public score **30.97**. The number 363939870 is a **scriptVersionId**, not a separately verified competition Submission ID. See [the dated status record](KAGGLE_SUBMISSION_STATUS_2026-11-07.json).
+
+The Kaggle writeup is a separate competition exposition. This repository's published **v2.1a** manuscript, its copyright notice, and all three existing DOI records are unchanged.
+
 We examine the evidence connecting an adaptation procedure to improved problem solving. The paper combines a repeated update-policy comparison in an attributed NVARC port for ARC-AGI-2 with recovery-execution records and a selected trajectory diagnostic from ARC-AGI-3. The two studies have different designs and are not pooled into a single causal experiment.
 
 ## Read the paper
@@ -43,4 +51,4 @@ The supplement contains selected historical development traces, methods, derived
 
 Copyright © 2026 Tsitsino Dzotsenidze. All rights reserved. No additional reuse license is granted for the manuscript. MIT-0 applies only to the separately identified author-owned methodological prose and pseudocode in the LP85 supplement; it does not apply to this article.
 
-This public research manuscript is not presented as a peer-reviewed journal article. Publication on GitHub is not a Kaggle Paper Track submission; the final Kaggle submission is a separate author decision. No new experiment was run for this publication.
+This public research manuscript is not presented as a peer-reviewed journal article. Its separate Kaggle Paper Track exposition is now Submitted, as recorded above. No new experiment was run for this publication or the administrative status update.
